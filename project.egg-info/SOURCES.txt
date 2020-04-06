@@ -1,0 +1,15 @@
+setup.py
+alibaba/__init__.py
+alibaba/items.py
+alibaba/middlewares.py
+alibaba/pipelines.py
+alibaba/settings.py
+alibaba/spiders/__init__.py
+alibaba/spiders/ali_crawler.py
+alibaba/spiders/live_channels.py
+alibaba/spiders/mohfw.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

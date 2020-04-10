@@ -1,31 +1,64 @@
+{ 
+ "statedata" :
 [
+
 {"Id": "1", "State": "Andhra Pradesh", "Total Cases": 132, "Cured": 1, "Death": 1},
+
 {"Id": "2", "State": "Andaman and Nicobar Islands", "Total Cases": 10, "Cured": 0, "Death": 0},
+
 {"Id": "3", "State": "Arunachal Pradesh", "Total Cases": 1, "Cured": 0, "Death": 0},
+
 {"Id": "4", "State": "Assam", "Total Cases": 16, "Cured": 0, "Death": 0},
+
 {"Id": "5", "State": "Bihar", "Total Cases": 29, "Cured": 0, "Death": 1},
+
 {"Id": "6", "State": "Chandigarh", "Total Cases": 18, "Cured": 0, "Death": 0},
+
 {"Id": "7", "State": "Chhattisgarh", "Total Cases": 9, "Cured": 3, "Death": 0},
+
 {"Id": "8", "State": "Delhi", "Total Cases": 219, "Cured": 8, "Death": 4},
+
 {"Id": "9", "State": "Goa", "Total Cases": 6, "Cured": 0, "Death": 0},
+
 {"Id": "10", "State": "Gujarat", "Total Cases": 95, "Cured": 10, "Death": 8},
+
 {"Id": "11", "State": "Haryana", "Total Cases": 49, "Cured": 24, "Death": 0},
+
 {"Id": "12", "State": "Himachal Pradesh", "Total Cases": 6, "Cured": 1, "Death": 1},
+
 {"Id": "13", "State": "Jammu and Kashmir", "Total Cases": 75, "Cured": 3, "Death": 2},
+
 {"Id": "14", "State": "Jharkhand", "Total Cases": 2, "Cured": 0, "Death": 0},
+
 {"Id": "15", "State": "Karnataka", "Total Cases": 124, "Cured": 10, "Death": 3},
+
 {"Id": "16", "State": "Kerala", "Total Cases": 286, "Cured": 27, "Death": 2},
+
 {"Id": "17", "State": "Ladakh", "Total Cases": 14, "Cured": 3, "Death": 0},
+
 {"Id": "18", "State": "Madhya Pradesh", "Total Cases": 104, "Cured": 0, "Death": 6},
+
 {"Id": "19", "State": "Maharashtra", "Total Cases": 335, "Cured": 42, "Death": 16},
+
 {"Id": "20", "State": "Manipur", "Total Cases": 2, "Cured": 0, "Death": 0},
+
 {"Id": "21", "State": "Mizoram", "Total Cases": 1, "Cured": 0, "Death": 0},
+
 {"Id": "22", "State": "Odisha", "Total Cases": 5, "Cured": 0, "Death": 0},
+
 {"Id": "23", "State": "Puducherry", "Total Cases": 5, "Cured": 1, "Death": 0},
+
 {"Id": "24", "State": "Punjab", "Total Cases": 48, "Cured": 1, "Death": 5},
+
 {"Id": "25", "State": "Rajasthan", "Total Cases": 167, "Cured": 3, "Death": 0},
+
 {"Id": "26", "State": "Tamil Nadu", "Total Cases": 309, "Cured": 6, "Death": 1},
+
 {"Id": "27", "State": "Telengana", "Total Cases": 158, "Cured": 1, "Death": 7},
+
 {"Id": "28", "State": "Uttarakhand", "Total Cases": 10, "Cured": 2, "Death": 0},
+
 {"Id": "28", "State": "Uttar Pradesh", "Total Cases": 172, "Cured": 14, "Death": 2}
+
 ]
+}
